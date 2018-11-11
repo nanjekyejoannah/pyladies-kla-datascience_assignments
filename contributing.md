@@ -7,6 +7,6 @@ For your Projects in this cohort, I have given the details below.
 challenging project so that you learn alot.
 3. Use jupyter Notebooks to come up with a solution. Remember to ask for help in the slack channel.
 4. Fork this repository on github: https://github.com/nanjekyejoannah/pyladies-kla-datascience_/pyladies-kla-datascience_projects
-5. Create a your project folder and give it a name yournames-projecttitle
+5. Create a your project folder and give it a name **yournames-projecttitle**
 6. Open a pull request for your work.
 7. You can email me if the steps here are confusing. kampala@pyladies.com
